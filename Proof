@@ -3,6 +3,8 @@ import java.util.*;
 public class Proof {
 
   public Proof (TheoremSet theorems) {
+	System.out.println("Hi Nick");
+	
 	}
 
 	public LineNumber nextLineNumber ( ) {
